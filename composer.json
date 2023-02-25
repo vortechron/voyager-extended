@@ -1,7 +1,7 @@
 {
 	"name": "vortechron/voyager-extended",
 	"require": {
-		"tcg/voyager": "^1.5",
+		"vortechron/voyager": "dev-master",
 		"vortechron/iseed": "^1.0"
 	},
 	"autoload": {
