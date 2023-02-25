@@ -2,7 +2,7 @@
 	"name": "vortechron/voyager-extended",
 	"require": {
 		"vortechron/voyager": "*",
-		"vortechron/iseed": "^1.0"
+		"vortechron/iseed": "dev-master"
 	},
 	"autoload": {
 		"psr-4": {
